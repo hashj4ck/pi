@@ -5,7 +5,7 @@ Hier finden spannende Projekte statt.
 RaspberryPi Projekte von Vinh und Chris
 
 
-# Sachen auf das Repository pushen.
+# Sachen auf das Repository pushen.(Vinh)
 
 ## Dateien Versionieren 
 git add [Dateien]
